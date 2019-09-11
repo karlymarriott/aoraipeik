@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eequuenaeb.xiaohui.cloud/sitemap.xml
